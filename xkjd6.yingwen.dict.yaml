@@ -8,22 +8,22 @@ Access	sccs
 AcFun	scfn
 A股	sgj
 ALT	slt
-ANDROID	sndd
+Android	sndd
 apk	spk
 APP	spp
 A站	sqf
 AA制	ssf
 ATM	stm
-BIANGBIANG面	bbmmu
+BiangBiang面	bbmo
 BGM	bgm
 B超	bjz
 B站	bqf
-BACKSPACE	bscei
+backspace	bscei
 B超	bwz
 CDMA	cdm
 c++	cjj
 CRM	crm
-CAPS LOCK	cspk
+caps lock	cspk
 CTRL	ctrl
 C位	cww
 C语言	cyy
@@ -32,9 +32,8 @@ delete	delei
 哆啦A梦	dlsm
 DNA	dns
 enter	enter
-ESC	esc
+esc	esc
 Excel	excl
-FOR	flr
 Foxmail	flxlv
 智能ABC	fnsc
 GDP	gdp
@@ -61,12 +60,13 @@ IP卡	kpki
 iPad	kps
 IPTV	kptv
 K线图	kxt
-OFFICE	lffeo
+Office	lffeo
 OFO	lfl
 LINUX	lknx
 VOLTE	lllte
 VPN	lpn
 MBA	mbsi
+MIDI	mkdki
 MIUI	mkjk
 Mac	msc
 NBA	nbs
@@ -86,11 +86,10 @@ QQ拼音	qqpy
 QQ群	qqqw
 QQ音乐	qqyy
 奇瑞QQ	qrqqv
-RIME	rkme
+Rime	rkme
 ROOT	rllt
-SHIFT	shkt
+shift	shkt
 SIM卡	skm
-SO嘎	slgs
 SOHO公寓	slhy
 TIM	tkm
 TAPTAP	tspt
