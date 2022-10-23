@@ -670,6 +670,7 @@ sort: original
 别写	bdxd
 百度学术	bdxe
 别按	bdxf
+北大西洋公约组织	bdxfi
 不得而知	bdxfv
 别行	bdxg
 别学	bdxh
@@ -771,6 +772,7 @@ sort: original
 不施粉黛	befdv
 不是这个	befg
 不世之功	befgv
+半数致死量	befl
 不是这么	befm
 饱食终日	befr
 博硕肥腯	beft
@@ -1339,6 +1341,7 @@ sort: original
 扮相	bfxx
 北风啸啸	bfxxi
 不重要	bfy
+半音	bfyb
 不止于此	bfyc
 不止一次	bfycv
 伴有	bfyd
@@ -2487,6 +2490,7 @@ sort: original
 不服	bjfj
 败军之将	bjfja
 步幅	bjfji
+宝剑锋从磨砺出	bjfjo
 不符	bjfjv
 不负	bjfjvu
 不止	bjfk
@@ -2811,6 +2815,7 @@ sort: original
 补缺	bjqho
 不摘	bjqhv
 北京站	bjqi
+薄伽丘	bjqii
 不住	bjqj
 补助	bjqjo
 不起	bjqk
@@ -3279,8 +3284,7 @@ sort: original
 壁柜	bkgb
 不可改变	bkgbv
 逼格	bkge
-逼哥	bkgev
-比个	bkgevi
+比个	bkgev
 比格	bkgevv
 笔杆	bkgf
 鼻骨	bkgj
@@ -4491,6 +4495,7 @@ sort: original
 百年树人	bnerv
 不耐受	bnev
 不能使用	bney
+饱暖生淫欲	bneyu
 不耐烦	bnf
 本周	bnfd
 本州	bnfdv
@@ -5506,6 +5511,7 @@ sort: original
 比特率	btlv
 半透明	btm
 不太明白	btmb
+不透明度	btmd
 半透膜	btmo
 悲天悯人	btmr
 不透明	btmv
@@ -6245,6 +6251,7 @@ sort: original
 必由之路	byfl
 不易之论	byflv
 不予置评	byfp
+饱眼福	byfu
 不一致	byfv
 毕业照	byfvi
 别有风味	byfw
@@ -6591,6 +6598,7 @@ sort: original
 暴君	bzjw
 薄唇	bzjwi
 褒奖	bzjx
+包浆	bzjxu
 爆炒	bzjz
 包抄	bzjzu
 别走开	bzk
@@ -9785,6 +9793,7 @@ sort: original
 对课	dbke
 对看	dbkf
 对勘	dbkfa
+大饱口服	dbkfv
 对开	dbkh
 对库	dbkj
 对抗	dbkp
@@ -11379,7 +11388,8 @@ sort: original
 单招	dfqz
 东方人	dfr
 淡然	dfrf
-但如	dfrj
+淡入	dfrj
+但如	dfrji
 单日	dfrk
 单弱	dfrl
 但若	dfrli
@@ -11955,6 +11965,7 @@ sort: original
 戴着	dhfeu
 待着	dhfeuo
 带饭	dhff
+电话粥	dhfi
 大夫	dhfj
 代付	dhfji
 呆滞	dhfk
@@ -18037,6 +18048,7 @@ sort: original
 摄氏	eeeki
 摄食	eeekii
 舍身	eeen
+谁谁谁	eeeo
 舍省	eeer
 舍生	eeeri
 射杀	eees
@@ -31805,6 +31817,7 @@ sort: original
 重拳	fyqt
 重权	fyqtu
 服役期	fyqu
+制音器	fyquo
 志愿者	fyqv
 副院长	fyqva
 专用章	fyqvu
@@ -33107,7 +33120,8 @@ sort: original
 构形	gdxg
 构型	gdxgv
 狗血	gdxh
-狗儿	gdxj
+光电信息科学与工程	gdxj
+狗儿	gdxju
 够细	gdxk
 沟洫	gdxl
 勾线	gdxm
@@ -39788,6 +39802,7 @@ sort: original
 和头	hetdu
 何谈	hetf
 河滩	hetfa
+华沙条约组织	hetfi
 和谈	hetfu
 和泰	heth
 河图	hetj
@@ -42563,9 +42578,9 @@ sort: original
 画集	hqjkv
 画技	hqjkvi
 话剧	hqjl
-花剑	hqjm
-化简	hqjmi
-花间	hqjmio
+化简	hqjm
+花间	hqjmi
+花剑	hqjmio
 华晨	hqjn
 话长	hqjp
 花酒	hqjq
@@ -42689,7 +42704,8 @@ sort: original
 花钱	hqqm
 花前	hqqmi
 花针	hqqn
-划账	hqqp
+华章	hqqp
+划账	hqqpv
 华政	hqqr
 华筝	hqqri
 花圈	hqqt
@@ -42800,7 +42816,8 @@ sort: original
 化验	hqyf
 华严	hqyfi
 华英	hqyg
-化约	hqyh
+华约	hqyh
+化约	hqyhi
 很长一段时间	hqyj
 华裔	hqyk
 滑移	hqyka
@@ -59520,6 +59537,7 @@ sort: original
 流水账	leqaa
 乐着	leqe
 流觞曲水	leqea
+绿水青山就是金山银山	leqeaa
 乐清	leqg
 勒住	leqj
 乐趣	leql
@@ -69446,6 +69464,7 @@ sort: original
 您在	nbzh
 您坐	nbzl
 您早	nbzz
+农村包围城市	ncbe
 尿布	ncbj
 尿闭	ncbk
 尿崩	ncbr
@@ -113780,8 +113799,9 @@ sort: original
 又可以	ykya
 意淫	ykyb
 异音	ykyba
-抑音	ykybi
+倚音	ykybi
 伊尹	ykybia
+抑音	ykybio
 译音	ykybo
 移印	ykybu
 已有	ykyd
