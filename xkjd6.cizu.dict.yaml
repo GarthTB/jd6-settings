@@ -15,6 +15,7 @@ sort: original
 鬓边	bbbm
 报不报名	bbbmi
 帮不帮忙	bbbmv
+苯巴比妥	bbbt
 白板笔	bbbu
 并不曾	bbc
 宾词	bbck
@@ -116,6 +117,7 @@ sort: original
 并不难	bbno
 宝贝女儿	bbnx
 抱不平	bbp
+苯并芘	bbpi
 白白胖胖	bbpp
 宾朋	bbpr
 百白破	bbpv
@@ -162,6 +164,7 @@ sort: original
 彬县	bbxm
 宝贝儿	bbxo
 兵不血刃	bbxr
+苯丙氨酸	bbxs
 百宝箱	bbxv
 本报讯	bbxvi
 傧相	bbxx
@@ -485,6 +488,7 @@ sort: original
 别国	bdgl
 别跟	bdgn
 别挂	bdgq
+毕达哥拉斯	bdgs
 别管	bdgt
 白大褂	bdgu
 别给	bdgw
@@ -2076,6 +2080,7 @@ sort: original
 百里	bhlk
 败落	bhll
 白脸	bhlm
+苯海拉明	bhlmi
 白莲	bhlmu
 白练	bhlmua
 白浪	bhlp
@@ -2327,6 +2332,7 @@ sort: original
 步步	bjbj
 罢黜百家	bjbji
 补补	bjbjo
+匕鬯不惊	bjbju
 不必	bjbk
 不比	bjbkv
 不避	bjbkva
@@ -3193,6 +3199,7 @@ sort: original
 逼得	bkdev
 避弹	bkdf
 必定	bkdg
+吡啶	bkdgo
 笔袋	bkdh
 必读	bkdj
 毙敌	bkdk
@@ -3519,6 +3526,7 @@ sort: original
 鼻塞	bkshu
 避俗	bksj
 必死	bksk
+鼻饲	bksku
 逼死	bkskv
 比索	bksl
 闭锁	bkslo
@@ -4470,11 +4478,13 @@ sort: original
 本年度	bnd
 本队	bndb
 本都	bndd
+畚斗	bndda
 笨的	bnde
 笨蛋	bndf
 把你的	bndi
 百年大计	bndj
 本地	bndk
+本底	bndkv
 本多	bndl
 本店	bndm
 本当	bndp
@@ -4553,6 +4563,7 @@ sort: original
 奔出	bnjj
 不能解决	bnjjv
 本机	bnjk
+畚箕	bnjka
 苯基	bnjki
 本级	bnjkv
 本纪	bnjkva
@@ -4566,6 +4577,7 @@ sort: original
 本家	bnjs
 本卷	bnjt
 八年级	bnju
+逼尿肌	bnjv
 不能成为	bnjw
 本讲	bnjx
 不念旧恶	bnjxv
@@ -6354,6 +6366,7 @@ sort: original
 必要性	byxo
 被允许	byxoa
 不约而同	byxt
+鼻咽癌	byxu
 不允许	byxv
 不影响	byxvo
 报怨雪耻	byxw
@@ -12043,6 +12056,7 @@ sort: original
 打火机	dhji
 带出	dhjj
 待机	dhjk
+贷记	dhjki
 灯红酒绿	dhjl
 待见	dhjm
 代偿	dhjp
@@ -17322,6 +17336,7 @@ sort: original
 上辈子	ebz
 水咀	ebzb
 税则	ebze
+水能载舟亦能覆舟	enzf
 山不在高	ebzg
 水灾	ebzh
 睡在	ebzhi
@@ -23777,6 +23792,7 @@ sort: original
 涮羊肉	eyra
 使用人	eyri
 啥意思	eys
+水杨酸	eysa
 示意图	eyt
 收银台	eyta
 审议通过	eytg
@@ -30088,7 +30104,6 @@ sort: original
 扎针	fsqn
 发疹	fsqna
 法阵	fsqnaa
-房思琪	fsqo
 发涨	fsqp
 法杖	fsqpa
 发球	fsqq
@@ -45558,6 +45573,7 @@ sort: original
 金湾	jbwfi
 近万	jbwfu
 久别重逢	jbwfuo
+金本位	jbwi
 985工程	jbwj
 金屋	jbwji
 金乌	jbwjiu
@@ -47295,7 +47311,7 @@ sort: original
 军事演习	jeyx
 车用	jeyy
 骄奢淫逸	jeyya
-建设有中国特色社会主义	jeyyao
+建设有中国特色的社会主义	jeyyao
 技术应用	jeyyi
 就是在	jez
 撤走	jezd
@@ -48555,6 +48571,7 @@ sort: original
 节节败退	jjbt
 储备	jjbw
 经久不息	jjbx
+甲基苯丙胺	jjbxi
 九九八十一	jjby
 除暴	jjbz
 出包	jjbza
@@ -61567,7 +61584,7 @@ sort: original
 泪流满面	llmm
 琳琅满目	llmmv
 罗马	llms
-绿吗	llmsa
+绿码	llmsa
 落马	llmsi
 老流氓	llmu
 旅美	llmw
@@ -62157,6 +62174,7 @@ sort: original
 狼叼	lpdc
 朗读	lpdj
 浪荡	lpdp
+莨菪	lpdpi
 郎洞	lpdy
 朗道	lpdz
 廊道	lpdzo
@@ -64012,6 +64030,7 @@ sort: original
 粮田	lxtmoi
 路线图	lxto
 亮堂	lxtp
+氯胺酮	lxtu
 龙傲天	lxtv
 粮囤	lxtw
 量筒	lxty
@@ -74413,6 +74432,7 @@ sort: original
 偏厦	pmes
 偏少	pmez
 拍卖法	pmf
+扁舟	pmfd
 偏饭	pmff
 篇幅	pmfj
 偏执	pmfk
@@ -91987,6 +92007,7 @@ sort: original
 天等	tmdr
 天大	tmds
 透明度	tmdu
+天门冬	tmdv
 天道	tmdz
 他们说	tme
 她们说	tmea
@@ -100289,6 +100310,7 @@ sort: original
 重组	wyzju
 虫子	wyzk
 重做	wyzl
+崇左	wyzli
 文艺作品	wyzp
 乌鸦嘴	wyzu
 无原则	wyzv
