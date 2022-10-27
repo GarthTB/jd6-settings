@@ -190,6 +190,7 @@ sort: original
 拜把子	bbzi
 并不怎么	bbzm
 殡葬	bbzp
+不把自己当外人	bbzr
 不必再	bbzv
 不必在意	bbzy
 并不在于	bbzyo
@@ -626,6 +627,7 @@ sort: original
 北斗七星	bdqxi
 别照	bdqz
 别的人	bdr
+不但如此	bdrc
 别惹	bdre
 不动如山	bdrev
 别入	bdrj
@@ -916,6 +918,7 @@ sort: original
 斑斑	bfbf
 办班	bfbfa
 百发百中	bfbfv
+不分伯仲	bfbfvu
 搬兵	bfbg
 斑白	bfbh
 半百	bfbho
@@ -1048,6 +1051,7 @@ sort: original
 百分制	bffvu
 班费	bffw
 不负众望	bffwv
+不孚众望	bffwvu
 板状	bffx
 捕风捉影	bffyi
 八方支援	bffyu
@@ -1375,6 +1379,7 @@ sort: original
 暴风雨	bfyou
 版样	bfyp
 本质要求	bfyq
+补中益气	bfyqo
 不值一钱	bfyqv
 板鸭	bfys
 板牙	bfysv
@@ -1409,6 +1414,7 @@ sort: original
 不负责任	bfzr
 不知足	bfzv
 班干部	bgb
+不干不净吃了没病	bgbb
 并表	bgbc
 半工半读	bgbd
 冰冰	bgbg
@@ -2087,6 +2093,7 @@ sort: original
 败露	bhlja
 白鹿	bhlju
 白鹭	bhljuo
+不合逻辑	bhljv
 百里	bhlk
 败落	bhll
 别鹤离鸾	bhllo
@@ -2172,6 +2179,7 @@ sort: original
 白气	bhqkuu
 白起	bhqkuv
 白区	bhql
+不合情理	bhqlv
 百千	bhqm
 败阵	bhqn
 被害者	bhqo
@@ -2255,6 +2263,7 @@ sort: original
 白娃	bhwsu
 百川	bhwt
 白话文	bhwu
+不会玩	bhwv
 摆位	bhww
 百味	bhwwv
 不和谐	bhx
@@ -2318,6 +2327,7 @@ sort: original
 不好用	bhyv
 白云	bhyw
 不会因为	bhywv
+不好意思打扰一下	bhyx
 白用	bhyy
 白药	bhyz
 不会做	bhz
@@ -2505,12 +2515,13 @@ sort: original
 不久之后	bjfh
 兵车之会	bjfhu
 不摘	bjfhv
-不服	bjfj
+不负	bjfj
 败军之将	bjfja
 步幅	bjfji
 宝剑锋从磨砺出	bjfjo
 不符	bjfjv
-不负	bjfjvu
+不服	bjfjvu
+不复	bjfjvu
 不止	bjfk
 布置	bjfkv
 不治	bjfkva
@@ -3115,6 +3126,7 @@ sort: original
 不育	bjylvo
 补养	bjyp
 补阳	bjypo
+不及预期	bjyq
 不雅	bjys
 补牙	bjyso
 不愿	bjyt
@@ -3516,6 +3528,7 @@ sort: original
 不可取	bkqv
 鼻准	bkqw
 鼻腔	bkqx
+不堪其忧	bkqy
 比照	bkqz
 不可辱	bkr
 笔锐	bkrb
@@ -4218,6 +4231,7 @@ sort: original
 便笺	bmjmi
 变长	bmjp
 边长	bmjpa
+薄膜键盘	bmjpi
 变旧	bmjq
 变成	bmjr
 编程	bmjra
@@ -4798,6 +4812,7 @@ sort: original
 棒状	bpfm
 绑扎	bpfs
 棒法	bpfsv
+不怕风大闪了舌头	bpft
 绑匪	bpfw
 棒状	bpfx
 榜中	bpfy
@@ -4988,6 +5003,7 @@ sort: original
 八强赛	bqs
 版权所有	bqsy
 包青天	bqt
+不求同年同月同日生	bqte
 拜占庭	bqti
 不折腾	bqtv
 百战天虫	bqtw
@@ -5538,7 +5554,9 @@ sort: original
 拜托了	btli
 别提了	btlo
 变态辣	btlov
+不听老人言吃亏在眼前	btlq
 比特率	btlv
+不听老人言	btly
 半透明	btm
 不太明白	btmb
 不透明度	btmd
@@ -14374,6 +14392,7 @@ sort: original
 大前提	dqt
 打气筒	dqti
 打气桶	dqtiu
+但求同年同月同日死	dqts
 大猪蹄子	dqtz
 等着我	dqw
 丢丑	dqwd
@@ -22656,6 +22675,7 @@ sort: original
 盛秋	erqq
 胜券	erqt
 声腔	erqx
+杀人诛心	erqxu
 生肉	errd
 生热	erre
 生乳	errj
@@ -23090,6 +23110,7 @@ sort: original
 食铁兽	eteii
 实体书	eteo
 拴上	etep
+拴绳	eter
 涮涮	etet
 首套房	etf
 率土之滨	etfb
@@ -29577,6 +29598,7 @@ sort: original
 冯坤	frkw
 疯狂	frkx
 风控	frky
+封控	frkyv
 发热量	frl
 峰林	frlb
 枫林	frlbv
@@ -33001,7 +33023,8 @@ sort: original
 够黑	gdhwu
 够好	gdhz
 该当何罪	gdhzo
-滚动键	gdj
+顾大局	gdj
+滚动键	gdja
 购进	gdjb
 狗叫	gdjc
 勾结	gdjd
@@ -37049,7 +37072,9 @@ sort: original
 共同心愿	gtxy
 观音	gtyb
 惯有	gtyd
-管业	gtye
+跟他一般见识	gtye
+跟她一般见识	gtyeo
+管业	gtyeu
 管严	gtyf
 观影	gtyg
 冠英	gtygo
@@ -40674,6 +40699,7 @@ sort: original
 还来	hhlh
 海路	hhlj
 海陆	hhlja
+合乎逻辑	hhlji
 海里	hhlk
 海螺	hhll
 海驴	hhlla
@@ -40730,7 +40756,6 @@ sort: original
 还亲	hhqb
 含糊其辞	hhqc
 海鞘	hhqca
-含糊其辞	hhqci
 海蜇	hhqe
 海战	hhqf
 还请	hhqg
@@ -40740,6 +40765,7 @@ sort: original
 海珠	hhqj
 氦气	hhqk
 还去	hhql
+合乎情理	hhqli
 还真	hhqn
 海囚	hhqq
 慌慌张张	hhqqo
@@ -48458,6 +48484,7 @@ sort: original
 绝张	jhqpa
 绝症	jhqr
 柴犬	jhqt
+均衡器	jhqv
 拆墙	jhqx
 机会主义	jhqy
 春花秋月	jhqyv
@@ -57316,6 +57343,7 @@ sort: original
 垦覆	knfj
 垦殖	knfk
 垦种	knfy
+可逆反应	knfyv
 肯干	kngf
 垦耕	kngr
 可能会	knh
@@ -66523,6 +66551,7 @@ sort: original
 木钻	mjzt
 铭记在心	mjzx
 马克杯	mkb
+马克笔	mkba
 米板	mkbf
 米饼	mkbg
 弭兵	mkbga
@@ -78982,6 +79011,7 @@ sort: original
 器重	qkfyo
 起重	qkfyv
 期中	qkfyvi
+气肿	qkfyu
 奇招	qkfz
 主客观	qkg
 气柜	qkgb
@@ -88034,6 +88064,7 @@ sort: original
 虽然还没	srhm
 三人间	srj
 三人成虎	srjh
+速溶咖啡	srkf
 死人了	srl
 损人利己	srlj
 僧侣	srll
@@ -88522,6 +88553,7 @@ sort: original
 死于非命	syfm
 送妆	syfmo
 送分	syfn
+塞牙缝	syfo
 松放	syfp
 送风	syfr
 所有者	syfu
@@ -96966,6 +96998,7 @@ sort: original
 我哥	wlge
 武林高手	wlgev
 我敢	wlgf
+沃柑	wlgfa
 蜗杆	wlgfi
 我该	wlgh
 戳咕	wlgj
@@ -111314,7 +111347,7 @@ sort: original
 眼光	yfgx
 验光	yfgxa
 一分耕耘	yfgy
-有中国特色社会主义	yfgyv
+有中国特色的社会主义	yfgyv
 眼膏	yfgz
 一分货	yfh
 也只好	yfha
@@ -112018,6 +112051,7 @@ sort: original
 硬拉	ygls
 有规律	yglv
 英伦	yglw
+阴沟里翻船	yglwa
 营垒	yglwi
 英两	yglx
 一个例子	yglz
@@ -121081,6 +121115,7 @@ sort: original
 左右开弓	zykg
 总括	zykl
 最有可能	zykn
+在一棵树上吊死	zyks
 总控	zyky
 作用力	zyl
 总磷	zylb
