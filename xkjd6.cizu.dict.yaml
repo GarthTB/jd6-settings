@@ -1372,7 +1372,7 @@ sort: original
 不止一个	bfyg
 半月	bfyh
 闭着眼睛	bfyj
-不知有汉，何论魏晋	bfyjv
+不知有汉，无论魏晋	bfyjv
 搬移	bfyk
 闭着眼	bfyo
 别这样	bfyoo
@@ -6310,6 +6310,7 @@ sort: original
 搬运工	bygi
 殡仪馆	bygv
 不用管	bygvu
+不以规矩，不能成方圆	bygy
 边缘化	byh
 必有后福	byhf
 冰与火之歌	byhg
@@ -6347,6 +6348,7 @@ sort: original
 不要命	bym
 剥玉米	byma
 鼻韵母	bymu
+不要面子	bymz
 比翼鸟	byn
 不要难过	byng
 布宜诺斯艾利斯	byns
@@ -12004,6 +12006,7 @@ sort: original
 代数	dhej
 袋鼠	dheji
 大好时机	dhejv
+带食	dhek
 待审	dhen
 带上	dhep
 戴上	dhepu
@@ -26032,6 +26035,7 @@ sort: original
 债国	fhgl
 斋供	fhgy
 召唤回	fhh
+复合函数	fhhe
 债户	fhhj
 窄行	fhhp
 摘花	fhhq
@@ -30365,9 +30369,9 @@ sort: original
 转债	ftfh
 转付	ftfj
 专职	ftfk
-专制	ftfkv
+转置	ftfkv
 专治	ftfkva
-转置	ftfkvi
+专制	ftfkvi
 转制	ftfkvu
 转职	ftfkvv
 专访	ftfp
@@ -37716,6 +37720,7 @@ sort: original
 故意杀人	gyeru
 共生	gyerv
 攻杀	gyes
+公因式	gyeu
 更衣室	gyev
 恭顺	gyew
 寡言少语	gyey
@@ -55912,6 +55917,7 @@ sort: original
 可惜	kexk
 科系	kexku
 可喜	kexkv
+柯西	kexkvv
 可先	kexm
 科恩	kexn
 课下	kexs
@@ -58068,6 +58074,7 @@ sort: original
 科学发展观	kxfg
 匡扶	kxfj
 矿质	kxfk
+柯西中值定理	kxfl
 狂放	kxfp
 科学发展	kxfq
 狂风	kxfr
@@ -58736,6 +58743,7 @@ sort: original
 轮不到	lbdv
 凛冬	lbdy
 临到	lbdz
+洛必达法则	lbdza
 连不上	lbe
 临睡	lbeb
 邻舍	lbee
@@ -58852,6 +58860,7 @@ sort: original
 鳞毛	lbmz
 老板娘	lbn
 莱布尼茨	lbnc
+莱布尼茨公式	lbne
 临难	lbnf
 力不能及	lbnj
 琳娜	lbns
@@ -60090,7 +60099,7 @@ sort: original
 灵力	lglka
 伶俐	lglki
 零落	lgll
-领率	lglli
+拉格朗日中值定理	lglli
 利国利民	lglm
 令郎	lglp
 拉格朗日	lglr
@@ -62186,7 +62195,7 @@ sort: original
 连要	lmyz
 老妈子	lmz
 绿帽子	lmza
-连走	lmzd
+连奏	lmzd
 联暂	lmzf
 连载	lmzh
 连在	lmzhv
@@ -63818,6 +63827,7 @@ sort: original
 良知	lxfko
 两支	lxfkv
 两指	lxfkvi
+罗尔中值定理	lxfl
 两幢	lxfm
 两分	lxfn
 凉粉	lxfno
@@ -91807,6 +91817,7 @@ sort: original
 天灵盖	tlg
 脱轨	tlgb
 脱钩	tlgd
+泰勒公式	tlge
 托孤	tlgj
 脱光	tlgm
 脱肛	tlgp
@@ -93337,6 +93348,7 @@ sort: original
 天选之人	txfr
 天选之子	txfz
 通讯稿	txg
+通项公式	txge
 推而广之	txgf
 剃须膏	txgo
 同乡会	txh
@@ -110745,6 +110757,7 @@ sort: original
 有伤风化	yefhv
 艺术照	yefi
 耶夫	yefj
+因式分解	yefji
 一时之间	yefjv
 也只	yefk
 也指	yefka
@@ -118126,6 +118139,7 @@ sort: original
 在德国	zdg
 走狗	zdgd
 走个	zdge
+最大公约数	zdgeo
 走过	zdgl
 走光	zdgm
 走光	zdgx
@@ -120918,6 +120932,7 @@ sort: original
 自寻烦恼	zxfn
 罪恶感	zxg
 造血干细胞	zxgb
+最小公倍数	zxge
 咨询公司	zxgs
 最小化	zxh
 最喜欢	zxho
