@@ -74,7 +74,7 @@ punctuator:
     '''' : { pair: [ '‘', '’' ] }
     '"' : { pair: [ '“', '”' ] }
     # '/' : { commit: / }
-    '\' : [ 、, ＼ ]
+    '\' : { commit: 、 }
     '|' : [ ·, ｜, '§', '¦' ]
     '`' : ｀
     '~' : ～
@@ -107,7 +107,7 @@ punctuator:
     ':' : { commit: ： }
     '''' : { pair: [ '‘', '’' ] }
     '"' : { pair: [ '“', '”' ] }
-    '\' : [ 、, '\', ＼ ]
+    '\' : { commit: 、 }
     '|' : [ ·, '|', ｜, '§', '¦' ]
     '`' : '`'
     '~' : [ '~', ～ ]
@@ -259,7 +259,8 @@ key_binder:
     - {accept: minus, send: Page_Up, when: has_menu}
     - {accept: equal, send: Page_Down, when: has_menu}
     - { when: always, accept: F7, toggle: jffh }
-    - { when: has_menu, accept: "'", send: 2 }
+    - { when: has_menu, accept: ";", send: 2 }
+    - { when: has_menu, accept: "'", send: 3 }
     #- { when: has_menu, accept: "&", toggle: emoji_cn}
     #- { when: has_menu, accept: "^", toggle: bmms}
     - { when: has_menu, accept: F6, toggle: show_es}
