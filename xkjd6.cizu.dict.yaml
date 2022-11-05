@@ -1850,6 +1850,7 @@ sort: original
 败笔	bhbk
 白璧	bhbku
 百变	bhbm
+白边	bhbmu
 不慌不忙	bhbmv
 白本	bhbn
 白榜	bhbp
@@ -2381,6 +2382,7 @@ sort: original
 颁奖词	bjc
 不测	bjce
 不才	bjch
+不睬	bjchv
 不辞	bjck
 不错	bjcl
 补仓	bjcp
@@ -2652,6 +2654,7 @@ sort: original
 不精	bjjgvo
 不觉	bjjh
 不绝	bjjhv
+不决	bjjhvo
 北京城	bjji
 不出	bjjj
 步出	bjjji
@@ -9654,6 +9657,7 @@ sort: original
 草毯	cztf
 草图	cztj
 草体	cztk
+草薙	cztki
 草田	cztm
 草堂	cztp
 草屯	cztw
@@ -16955,7 +16959,8 @@ sort: original
 倒运	dzyw
 电子游戏	dzyx
 盗用	dzyy
-倒要	dzyz
+到要	dzyz
+倒要	dzyzi
 刀子嘴	dzz
 到嘴	dzzb
 盗走	dzzd
@@ -20511,6 +20516,7 @@ sort: original
 失真	ekqnu
 市长	ekqp
 师长	ekqpi
+视障	ekqpo
 十丈	ekqpu
 是求	ekqq
 视丘	ekqqo
@@ -21031,6 +21037,7 @@ sort: original
 说在	elzh
 什劳子	elzi
 说作	elzl
+胜利在望	elzw
 说明白	emb
 圣母婊	emba
 双鬓	embb
@@ -21053,8 +21060,7 @@ sort: original
 双层	emcr
 双槽	emcz
 双调	emdc
-什么东东	emdd
-什么都不知道	emddi
+什么都不知道	emdd
 爽得	emde
 什么地方	emdf
 双顶	emdg
@@ -27459,7 +27465,7 @@ sort: original
 质量	fklx
 治涝	fklz
 之劳	fklzo
-至昆明	fkm
+付款码	fkm
 殖民	fkmb
 之民	fkmbo
 之妙	fkmc
@@ -47611,6 +47617,7 @@ sort: original
 产婆	jfplo
 长风破浪	jfplu
 激发起	jfq
+承重墙	jfqa
 缠着	jfqe
 记者招待会	jfqh
 金钟罩	jfqi
@@ -50271,6 +50278,7 @@ sort: original
 集资	jkzki
 集子	jkzkia
 基座	jkzl
+记作	jkzlo
 几座	jkzlu
 极左	jkzlv
 机座	jkzlvo
@@ -51143,6 +51151,7 @@ sort: original
 健全	jmqt
 涧泉	jmqta
 鉴权	jmqti
+成名曲	jmqv
 建群	jmqw
 键准	jmqwi
 坚强	jmqx
@@ -52681,8 +52690,8 @@ sort: original
 急人之难	jrfnu
 乘方	jrfp
 盛放	jrfpv
-成风	jrfr
-乘风	jrfru
+乘风	jrfr
+成风	jrfrv
 惩罚	jrfs
 乘法	jrfsu
 进入状态	jrft
@@ -52694,12 +52703,14 @@ sort: original
 城中	jrfyv
 诚招	jrfz
 成规	jrgb
+城轨	jrgbv
 承购	jrgd
 成狗	jrgdv
 成个	jrge
 撑杆	jrgf
 城固	jrgj
 成果	jrgl
+城郭	jrglv
 承光	jrgm
 城根	jrgn
 城港	jrgp
@@ -52941,6 +52952,7 @@ sort: original
 承玄	jrxt
 城乡	jrxx
 丞相	jrxxa
+承想	jrxxav
 呈祥	jrxxo
 成像	jrxxv
 城厢	jrxxvv
@@ -87838,8 +87850,9 @@ sort: original
 缩了	slle
 缩略	sllh
 所录	sllj
-斯里兰卡	sllk
-所立	sllko
+所里	sllk
+所立	sllku
+斯里兰卡	sllkv
 所虑	slll
 锁链	sllm
 赛璐珞	sllo
@@ -90733,6 +90746,7 @@ sort: original
 听诊	tgqno
 厅长	tgqp
 庭长	tgqpo
+听障	tgqpoa
 铁骨铮铮	tgqq
 听证	tgqr
 挺全	tgqt
@@ -91583,8 +91597,8 @@ sort: original
 提拔	tkbs
 提包	tkbz
 太空舱	tkc
-体侧	tkce
-体测	tkcei
+体测	tkce
+体侧	tkcei
 题材	tkch
 体裁	tkchi
 体彩	tkchiu
@@ -103294,6 +103308,7 @@ sort: original
 暗网	xfwp
 安插	xfws
 安慰	xfww
+按位	xfwwi
 安危	xfwwo
 学富五车	xfwwoo
 暗疮	xfwx
@@ -103482,8 +103497,7 @@ sort: original
 新冠肺炎	xgfyo
 小广告	xgg
 熊果苷	xgga
-姓炔	xggb
-星轨	xggbo
+星轨	xggb
 性格	xgge
 性感	xggf
 姓盖	xggh
