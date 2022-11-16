@@ -8,17 +8,17 @@ sort: original
 不了	bai
 宝贝	bao
 不好	bau
-不敢	bav
-不仅	bi
-不见	bia
+办法	bav
+不会	bi
+不仅	bia
 别人	bii
 不但	bio
 包括	biu
-不会	biv
+	biv
 不是	bo
 不让	boa
 表明	boi
-表情	boo
+比赛	boo
 不断	bou
 毕竟	bov
 必须	bu
@@ -72,7 +72,7 @@ sort: original
 多少	di
 当中	dia
 大人	dii
-短信	dio
+单位	dio
 动作	diu
 地上	div
 但是	do
@@ -118,7 +118,7 @@ sort: original
 实行	euu
 首先	euv
 上面	ev
-甚至	eva
+受到	eva
 剩下	evi
 上来	evo
 手机	evu
@@ -163,7 +163,7 @@ sort: original
 刚刚	gia
 个人	gii
 各位	gio
-高手	giu
+根据	giu
 关上	giv
 感觉	go
 告诉	goa
@@ -241,7 +241,7 @@ sort: original
 见到	jva
 基本	jvi
 出来	jvo
-见面	jvu
+具有	jvu
 出现	jvv
 可以	ka
 口水	kaa
@@ -258,7 +258,7 @@ sort: original
 可是	ko
 开心	koa
 空间	koi
-肯定	koo
+科学	koo
 看着	kou
 渴望	kov
 可爱	ku
@@ -266,7 +266,7 @@ sort: original
 空白	kui
 开支	kuo
 靠近	kuu
-空气	kuv
+控制	kuv
 开车	kv
 看到	kva
 快速	kvi
@@ -277,10 +277,10 @@ sort: original
 立马	laa
 露出	lai
 练习	lao
-良好	lau
+例如	lau
 立即	lav
 两个	li
-类似	lia
+历史	lia
 令人	lii
 两位	lio
 老师	liu
@@ -415,7 +415,7 @@ sort: original
 欺负	qua
 真的	qui
 全都	quo
-期待	quu
+取得	quu
 去年	quv
 起来	qv
 轻轻	qva
@@ -535,7 +535,7 @@ sort: original
 吃饭	wua
 冲向	wui
 充分	wuo
-微微	wuu
+物质	wuu
 微笑	wuv
 完成	wv
 无比	wva
@@ -559,11 +559,11 @@ sort: original
 谢谢	xoa
 小时	xoi
 心情	xoo
-想着	xou
+行为	xou
 希望	xov
 许多	xu
 想象	xua
-休息	xui
+信息	xui
 享受	xuo
 显得	xuu
 下午	xuv
@@ -572,7 +572,7 @@ sort: original
 需要	xvi
 下来	xvo
 形成	xvu
-心理	xvv
+形式	xvv
 已经	ya
 一丝	yaa
 样子	yai
@@ -631,5 +631,5 @@ sort: original
 做到	zva
 坐下	zvi
 走来	zvo
-左右	zvu
+造成	zvu
 走进	zvv

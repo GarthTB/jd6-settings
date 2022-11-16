@@ -48,6 +48,7 @@
   联诀	lmjh
   匹萨
   伴音
+  喂喂	wwwwo
   就得	jqde
   酒的	jqdea
   减甲	jmjsoi
@@ -158,6 +159,7 @@
   北京理工大学
   北京南站
   #除“神马”外所有带“神马”的词
+  什么关系	emgx
   还有什么	hyem
   什么东西	emdx
   什么时候	emeh
@@ -178,7 +180,6 @@
   没有因为	myyw
   已经没有	yjmy
   怎么没有	zmmy
-  不仅没有	bjmy
   不能没有	bnmy
   但是没有	demy
   当然没有	drmy
@@ -260,6 +261,8 @@
   我们为什么	wmwmu
   我们已经	wmyj
   我们自己	wmzj
+  我们觉得	wmjdu
+  我们现在	wmxz
   现在我们	xzwmv
   我们是	wmeu
   我们就	wmju
@@ -291,6 +294,37 @@
   就是一个	jeygo
   就是因为	jeyw
   结果就是	jgjea
+  怎么可以	zmky
+  怎么这样	zmqy
+  怎么这样	zmfy
+  怎么这么	zmfm
+  怎么这么	zmqm
+  不能这样	bnfyv
+  不能这样	bnqy
+  这样才能	fycn
+  这样才能	qycn
+  这样可以	qykyo
+  这样那样	qyny
+  这样认为	qyrwo
+  如果这样	rgfy
+  如果这样	rgqy
+  现在这样	xzfyv
+  现在这样	xzqy
+  这样那样	fynyo
+  还有那么	hynm
+  就是这么	jefm
+  可以这么	kyfmv
+  可以这么	kyqmv
+  但是如果	derg
+  可是如果	kerg
+  如果不能	rgbn
+  如果可以	rgky
+  如果一个	rgyg
+  如果自己	rgzj
+  多少时间	deejui
+  还有多少	hydev
+  工作时间	gzejv
+  还有时间	hyejv
   
 替换
   别摘	标点符号
@@ -453,6 +487,7 @@
   倒追	dzfb
   软著	rtqj
   糖豆	tpdd
+  上牌	epph
   新装置	xffoo
   负债率	fqlu
   发芽率	fyla
@@ -779,11 +814,20 @@
   友	yd
   酱	jx
   思	sk
+  毕竟	bj
+  不如	br
+  甚至	ef
+  发生	fe
+  类似	ls
+  期待	qd
+  停止	tf
   （修改）旗	qk
   五	w
   玩	wf
   此次	cc
   从而	cx
+  收到	ed
+  方面	fm
   公开	gk
   了呢	ln
   然而	rx
@@ -796,7 +840,7 @@
   原因  yia 眼睛
   方向  fui 转身
   小孩  xai 小子
-  心理  xvv 安静
+  形式  xvv 安静
   在乎  zuo 作者
   一下	yx	以下
   以下	yvi	一下
@@ -848,10 +892,11 @@
   形成	xvu	兴奋
   小时	xoi	像是
   更多	gua	果然
-  左右	zvu	坐在
+  造成	zvu	坐在
   包括	biu	不少
-  不仅	bi	不但
+  不会	bi	不但
   不但	bio	不错
+  不仅	bia	不见
   重要	fvi	只要
   考虑	kiv	快点
   实际	eai	身子
@@ -873,7 +918,7 @@
   成绩	jaa	拒绝
   明确	mvu	忙碌
   实行	euu	身后
-  良好	lau	老妈
+  例如	lau	老妈
   联合	liv	脸上
   民族	mov	母亲
   作品	zoo	在家
@@ -891,8 +936,23 @@
   不可	bvo	本来
   强调	qoa	注视
   天下	tvi	通过
+  通过	tvi	天天
   整体	qiv	其余
   去了	qai	妻子
+  具有	jvu	见面
+  根据	giu	高手
+  科学	koo	肯定
+  历史	lia	类似
+  单位	dio	短信
+  物质	wuu	微微
+  比赛	boo	表情
+  行为	xou	想着
+  受到	eva	甚至
+  办法	bav	不敢
+  信息	xui	休息
+  标准	bov	毕竟
+  取得	quu	期待
+  控制	kuv	空气
   
 室女	eknlo
 仙王	xmwpi
@@ -932,6 +992,7 @@
 短曝	dtbz
 焦段	jcdti
 短焦	dtjcu
+镜筒	jgtyi
 百微	bhwwvu
 调亮	tclx
 调暗	tcxf
@@ -1269,6 +1330,7 @@ c++	cjj
 蘸酱	qfjxio
 超星	jzxgv
 维艰	wwjmaa
+上号	ephzio
 看一眼	kyyu
 搬不动	bbdi
 搬得动	bddi
