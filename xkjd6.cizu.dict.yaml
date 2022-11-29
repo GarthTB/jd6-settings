@@ -4872,6 +4872,7 @@ sort: original
 帮耐	bpnh
 背叛你	bpni
 帮你	bpnk
+帮拿	bpns
 不匹配	bpp
 帮贫	bppb
 绑票	bppc
@@ -16421,7 +16422,8 @@ sort: original
 对于这个	dyqga
 董卿	dyqgi
 冬青	dyqgu
-低吟浅唱	dyqj
+冻住	dyqj
+低吟浅唱	dyqji
 动气	dyqk
 东区	dyql
 动迁	dyqm
@@ -29674,7 +29676,8 @@ sort: original
 峰林	frlb
 枫林	frlbv
 蜂疗	frlc
-凤楼	frld
+封楼	frld
+凤楼	frldu
 疯了	frle
 封了	frlev
 封篮	frlf
@@ -33317,6 +33320,7 @@ sort: original
 鬼点子	gdzu
 狗贼	gdzw
 构造	gdzz
+裹尸布	geb
 各表	gebc
 个别	gebd
 光说不练假把式	gebe
@@ -35154,6 +35158,7 @@ sort: original
 古早	gjzzu
 高宽比	gkb
 刚看到	gkd
+挂空挡	gkdi
 高开低走	gkdz
 刚开始	gke
 共克时艰	gkej
@@ -35257,6 +35262,7 @@ sort: original
 国史	glekii
 国是	glekio
 国士	glekiv
+裹尸	gleko
 过时	glekv
 过失	glekvu
 过世	glekvv
@@ -58425,6 +58431,7 @@ sort: original
 裤腰带	kydo
 空当	kydp
 空荡	kydpo
+空挡	kydpoi
 空档	kydpov
 宽以待人	kydr
 空打	kyds
@@ -71320,9 +71327,9 @@ sort: original
 你们家	nmji
 年初	nmjj
 念出	nmjji
-年纪	nmjk
+年级	nmjk
 念及	nmjki
-年级	nmjku
+年纪	nmjku
 粘聚	nmjl
 年间	nmjm
 年检	nmjmu
@@ -79517,6 +79524,7 @@ garth03@yeah.net	oyx
 起舞	qkwj
 器物	qkwjo
 欺侮	qkwjv
+起雾	qkwjvv
 启齿	qkwk
 七尺	qkwkv
 气我	qkwl
@@ -87108,6 +87116,7 @@ garth03@yeah.net	oyx
 速告	sjgz
 三句话	sjh
 速回	sjhb
+三角函数	sjhe
 宿怀	sjhg
 三句话不离本行	sjhh
 宿恨	sjhn
@@ -101642,6 +101651,7 @@ garth03@yeah.net	oyx
 小生	xceriu
 啸声	xcero
 心慈手软	xceroo
+消杀	xces
 孝顺	xcew
 小爽	xcex
 小双	xcexi
@@ -105580,7 +105590,7 @@ garth03@yeah.net	oyx
 叙别	xlbd
 阿拉伯联合酋长国	xlbg
 小喇叭	xlbi
-小笼包	xlbiu
+艾里斑	xlbii
 爱理不理	xlbl
 续编	xlbm
 徐变	xlbmu
@@ -108136,6 +108146,7 @@ garth03@yeah.net	oyx
 新问题	xwt
 小问题	xwti
 驯驼	xwtl
+巡天	xwtm
 暗无天日	xwtr
 寻她	xwts
 想问题	xwtv
@@ -120727,7 +120738,8 @@ garth03@yeah.net	oyx
 赠送	zrsy
 责任田	zrt
 增退	zrtb
-增投	zrtd
+增透	zrtd
+增投	zrtdv
 曾听	zrtg
 赠图	zrtj
 自然条件	zrtju
