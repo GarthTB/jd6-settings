@@ -10,8 +10,8 @@ app_options:
     ascii_mode: true
 
 style:
-  color_scheme: aqua
-  font_face: HarmonyOS Sans SC
+  color_scheme: aaa
+  font_face: HONOR Sans SC
   font_point: 16
   horizontal: false
   fullscreen: false
