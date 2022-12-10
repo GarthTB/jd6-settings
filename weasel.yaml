@@ -11,7 +11,7 @@ app_options:
 
 style:
   color_scheme: aaa
-  font_face: HONOR Sans SC
+  font_face: HarmonyOS Sans SC
   font_point: 16
   horizontal: false
   fullscreen: false
