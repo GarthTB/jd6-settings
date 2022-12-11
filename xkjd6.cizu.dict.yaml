@@ -345,6 +345,7 @@ sort: original
 标准	bcqw
 标枪	bcqx
 表三	bcsf
+标宋	bcsy
 表嫂	bcsz
 被辞退	bct
 标贴	bctd
@@ -5810,8 +5811,8 @@ sort: original
 被劫	bwjdo
 被撤	bwje
 被铲	bwjf
-北京	bwjg
-背景	bwjgi
+背景	bwjg
+北京	bwjgi
 倍觉	bwjh
 把握机会	bwjhi
 被拆	bwjho
@@ -13736,6 +13737,7 @@ sort: original
 典藏	dmcp
 垫草	dmcz
 多么的	dmd
+点掉	dmdc
 大名鼎鼎	dmdd
 点的	dmde
 点单	dmdf
@@ -20327,6 +20329,7 @@ sort: original
 市场	ekjp
 时常	ekjpo
 时长	ekjpou
+视场	ekjpov
 失常	ekjpu
 十九	ekjq
 嗜酒	ekjqo
@@ -35684,7 +35687,6 @@ sort: original
 革命史	gme
 广水	gmeb
 广受	gmed
-光设	gxee
 光栅	gmef
 国民生产总值	gmefi
 光束	gmej
@@ -35860,6 +35862,7 @@ sort: original
 广外	gmwh
 光武	gmwj
 光吃	gmwk
+逛吃	gmwku
 光窗	gmwm
 广闻	gmwn
 光芒万丈	gmwq
@@ -37467,6 +37470,7 @@ sort: original
 管闲事	gxe
 广水	gxeb
 广受	gxed
+光设	gxee
 光栅	gxef
 个小时后	gxeh
 供销社	gxei
@@ -37678,6 +37682,7 @@ sort: original
 广外	gxwh
 光武	gxwj
 光吃	gxwk
+逛吃	gxwku
 光窗	gxwm
 广闻	gxwn
 公而忘私	gxws
@@ -41213,8 +41218,9 @@ sort: original
 互击	hjjkv
 护具	hjjl
 虎踞	hjjli
-互减	hjjm
+互鉴	hjjm
 忽见	hjjmu
+互减	hjjmv
 火箭军	hjjo
 胡唱	hjjp
 呼救	hjjq
@@ -43924,6 +43930,7 @@ sort: original
 昏死	hwsku
 黑森	hwsn
 婚丧	hwsp
+黑蒜	hwst
 黑松	hwsy
 火车头	hwt
 黑头	hwtd
@@ -50325,6 +50332,7 @@ sort: original
 纪元	jkytav
 积怨	jkytu
 集运	jkyw
+积云	jkywu
 急用	jkyy
 即用	jkyya
 金口玉言	jkyyi
@@ -57298,6 +57306,7 @@ sort: original
 扩充	klwy
 看了下	klx
 扩写	klxd
+科里奥利	klxl
 可怜兮兮	klxx
 扩胸	klxy
 可利用	kly
@@ -63019,6 +63028,7 @@ sort: original
 冷了	lrle
 愣了	lrleo
 利人利己	lrlj
+乱扔垃圾	lrlju
 冷落	lrll
 冷脸	lrlm
 冷流	lrlq
@@ -63242,10 +63252,10 @@ sort: original
 拉尿	lsnc
 力所能及	lsnj
 螺丝批	lsp
-拉片	lspm
 拉票	lspc
 拉平	lspg
 拉皮	lspk
+拉片	lspm
 临死前	lsq
 拉着	lsqe
 蜡烛	lsqj
@@ -84125,6 +84135,7 @@ garth03@yeah.net	oyx
 热浪	relp
 热流	relq
 热辣	rels
+软实力	relv
 热泪	relw
 热量	relx
 热敏	remb
@@ -86387,6 +86398,8 @@ garth03@yeah.net	oyx
 飕飕	sdsdu
 搜索	sdsl
 死对头	sdt
+搜图	sdtj
+搜题	sdtk
 随地吐痰	sdtt
 馊臭	sdwd
 搜查	sdws
@@ -92532,7 +92545,8 @@ garth03@yeah.net	oyx
 田七	tmqki
 天起	tmqkv
 天启	tmqkvo
-天趣	tmql
+天区	tmql
+天趣	tmqlv
 天谴	tmqm
 天前	tmqmv
 天真	tmqn
@@ -99692,8 +99706,9 @@ garth03@yeah.net	oyx
 位能	wwnri
 为能	wwnro
 威能	wwnrv
-未纳	wwns
-为那	wwnso
+为那	wwns
+微纳	wwnsu
+未纳	wwnsv
 插翅难逃	wwnt
 围内	wwnw
 伪娘	wwnx
@@ -108474,6 +108489,7 @@ garth03@yeah.net	oyx
 相国	xxglv
 形销骨立	xxglvi
 洗心革面	xxgm
+向光	xxgmu
 想逛	xxgmv
 想跟	xxgn
 吸血鬼	xxgo
@@ -108487,6 +108503,7 @@ garth03@yeah.net	oyx
 谢谢各位	xxgwo
 想逛	xxgx
 线性关系	xxgxa
+向光	xxgxu
 相公	xxgy
 相告	xxgz
 欧安会	xxh
@@ -117299,6 +117316,7 @@ garth03@yeah.net	oyx
 永春	yyjwo
 一跃成为	yyjwv
 应用程序	yyjx
+邕江	yyjxa
 牙龈出血	yyjxv
 应有尽有	yyjy
 涌潮	yyjz
