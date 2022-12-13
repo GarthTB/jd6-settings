@@ -30,7 +30,6 @@
   OFO小黄车	lfljo	lflw
   象素
   颜射
-  特对
   迈动
   好迪	hzdk
   离的
@@ -45,12 +44,10 @@
   做图	zltj
   赵兄	fzxy
   辈份	bwfnii
-  办差
   乡野	xxyea
   联诀	lmjh
   匹萨
   伴音
-  喂喂	wwwwo
   就得	jqde
   酒的	jqdea
   减甲	jmjsoi
@@ -63,12 +60,9 @@
   笔划
   模版	mlbfv
   白都
-  白了
-  白判
   不扎
-  不转
   不撒
-  放开手脚
+  放开手脚	fkejovi
   贝司	bwsk
   冰超
   网传	wpft
@@ -116,6 +110,7 @@
   金慧	jbhbiv
   进会	jbhbv
   待在	dhzhu
+  打气桶	dqtiu
   兴匆匆	xcc
   说的好	edhou
   飙车族
@@ -138,7 +133,6 @@
   半调子
   房思琪	fsqo
   港珠奥大桥	gqxqa
-  犟脾气
   轧路机
   有这么	yqm
   一揽子
@@ -379,6 +373,7 @@
   志愿	支援
   大调	打掉
   背锅	背过
+  位移	偎依
   待办	代办	代班
   不谢	不懈	不屑
   别摘	标点符号
@@ -427,6 +422,8 @@
   打工仔	点个赞
   到后来	大灰狼
   看得见	看得出
+  画外音	很诧异
+  国际性	供产销
   别说破	保守派	标示牌
   不要怕	被压迫	白玉盘
   曾一度	参与度	策源地
@@ -434,6 +431,7 @@
 修改
   蝠	fjiav
   U盘	jpf
+  办差	bfjh
   板房	bffp
   飞思	fwsk
   月掩	yhyf
@@ -852,10 +850,13 @@
   确实	qe
   思	sk
   玩	wf
+  呜	wj
   唉	xh
   诶	xw
   友	yd
   呀	ys
+  远	yt
+  圆	yt
   （修改）旗	qk
   五	w
   此次	cc	从此
@@ -942,7 +943,12 @@
 合焦	hejci
 拉片	lspm
 跟焦	gnjco
-注塑	qjsja
+天区	tmql
+地景	dkjg
+糊片	hjpm
+机震	jkqnv
+黑卡	hwks
+白矮星	bxxu
 快门线	kmx
 点列图	dltiv
 鸠尾板	jwbu
@@ -971,6 +977,7 @@
 延时摄影	yeey
 高动态范围	gdtw
 马卡良星系链	mkll
+放克	fpkeou
 刮奏	gqzdu
 半音	bfyb
 倚音	ykybi
@@ -1327,11 +1334,26 @@ c++	cjj
 积云	jkywu
 向光	xxgmu	xxgxu
 互鉴	hjjm
-天区	tmql
-软实力	relv
+注塑	qjsja
+焰色	yfseo
+嘿呀	hwys
+出摊	jjtfa
+猪窝	qjwlu
+狗哨	gdez
+读破	djpl
+省水	erebi
+破读	pldjv
+吗喽	msldo
+小只	xcfki
+大只	dsfkv
+泅渡	qqdj
+激波	jkbl
 X射线	xksx
 γ射线	gmex
 MIDI	mkdki
+上一步	eybi
+攻击性	gjxvv
+软实力	relv
 红绿蓝	hlla
 西番莲	xflv
 小番茄	xfqi
@@ -1737,6 +1759,8 @@ MIDI	mkdki
 零零后	llhv
 艾里斑	xlbii
 挂空挡	gkdi
+小写字母	xxzm
+大写字母	dxzm
 乱扔垃圾	lrlju
 科里奥利	klxl
 打不出来	dbjli

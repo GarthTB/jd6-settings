@@ -2081,6 +2081,7 @@ sort: original
 百列	bhldv
 辩护律师	bhle
 败了	bhlea
+白了	bhleu
 摆烂	bhlf
 白兰	bhlfu
 白领	bhlg
@@ -2149,6 +2150,7 @@ sort: original
 白嫖	bhpc
 白票	bhpcu
 摆盘	bhpf
+白判	bhpfu
 摆平	bhpg
 白屏	bhpgu
 摆拍	bhph
@@ -2550,7 +2552,8 @@ sort: original
 不乏	bjfsv
 不发	bjfsva
 不专	bjft
-不经之谈	bjftv
+不转	bjftv
+不经之谈	bjftva
 八进制	bjfu
 百家饭	bjfv
 不菲	bjfw
@@ -6251,6 +6254,7 @@ sort: original
 保险箱	bxxi
 不修小节	bxxj
 北爱尔兰	bxxl
+白矮星	bxxu
 不相信	bxxv
 不信邪	bxxvi
 白雪皑皑	bxxx
@@ -12661,6 +12665,7 @@ sort: original
 读盘	djpf
 赌牌	djph
 肚皮	djpk
+读破	djpl
 订机票	djpo
 杜鹏	djpr
 代金券	djq
@@ -12992,7 +12997,8 @@ sort: original
 地界	dkjdv
 地产	dkjf
 低产	dkjfi
-抵京	dkjg
+地景	dkjg
+抵京	dkjgi
 嫡觉	dkjh
 抵触	dkjj
 滴出	dkjja
@@ -14448,7 +14454,6 @@ sort: original
 得其所哉	dqsz
 大前提	dqt
 打气筒	dqti
-打气桶	dqtiu
 但求同年同月同日死	dqts
 大猪蹄子	dqtz
 等着我	dqw
@@ -14887,6 +14892,7 @@ sort: original
 大斧	dsfjvu
 大夫	dsfjvv
 大致	dsfk
+大只	dsfkv
 大佛	dsfl
 搭桌	dsfli
 打桩	dsfm
@@ -16137,6 +16143,7 @@ sort: original
 到现在为止	dxzf
 党小组	dxzi
 大写字母锁定键	dxzj
+大写字母	dxzm
 德昂族	dxzu
 东乡族	dxzv
 第一步	dyb
@@ -22499,6 +22506,7 @@ sort: original
 升到	erdzu
 升水	ereb
 圣水	ereba
+省水	erebi
 生手	ered
 圣手	ereda
 剩佘	eree
@@ -23793,6 +23801,7 @@ sort: original
 稍有不慎	eybe
 啥也不是	eybeo
 实验报告	eybg
+上一步	eybi
 十有八九	eybj
 数以百计	eybjo
 实验班	eybo
@@ -29093,6 +29102,7 @@ sort: original
 方可	fpke
 访客	fpkeo
 房客	fpkeoo
+放克	fpkeou
 方块	fpkg
 放开	fpkh
 方框	fpkm
@@ -33063,6 +33073,7 @@ sort: original
 古代史	gdeu
 够爽	gdex
 高等数学	gdexo
+狗哨	gdez
 个地方	gdf
 高度发达	gdfd
 够着	gdfe
@@ -35100,7 +35111,7 @@ sort: original
 故伎重演	gjwy
 蛊虫	gjwyi
 古钞	gjwz
-供产销	gjx
+关键性	gjx
 鼓芯	gjxb
 故笑	gjxc
 国际形势	gjxe
@@ -35110,6 +35121,7 @@ sort: original
 骨癌	gjxhi
 国际奥委会	gjxhia
 国际性	gjxi
+供产销	gjxio
 故而	gjxj
 孤儿	gjxja
 股息	gjxk
@@ -35118,14 +35130,14 @@ sort: original
 顾惜	gjxkv
 顾恤	gjxl
 古恩	gjxn
-关键性	gjxo
-宫颈癌	gjxoa
+宫颈癌	gjxo
 国际先进水平	gjxp
 顾绣	gjxq
 国家安全	gjxqi
 国际象棋	gjxqia
 工程学	gjxv
 工具箱	gjxvi
+攻击性	gjxvv
 古训	gjxw
 国际新闻	gjxwi
 故乡	gjxx
@@ -41310,6 +41322,7 @@ sort: original
 湖泊	hjpl
 护坡	hjpli
 琥珀	hjplv
+糊片	hjpm
 湖盆	hjpn
 湖旁	hjpp
 火车站	hjq
@@ -43821,6 +43834,7 @@ sort: original
 黑客	hwke
 浑括	hwkl
 黑框	hwkm
+黑卡	hwks
 黑框	hwkx
 好无聊	hwl
 婚外恋	hwla
@@ -43994,7 +44008,7 @@ sort: original
 黑箱	hwxx
 混响	hwxxa
 黑熊	hwxy
-很诧异	hwy
+画外音	hwy
 婚姻	hwyb
 混音	hwyba
 黑油	hwyd
@@ -44018,9 +44032,10 @@ sort: original
 黑域	hwyliv
 毫无压力	hwylo
 混养	hwyp
+嘿呀	hwys
 浑圆	hwyt
 混为一谈	hwyta
-画外音	hwyv
+很诧异	hwyu
 毫无疑问	hwyw
 混匀	hwywa
 黑云	hwywi
@@ -49283,7 +49298,8 @@ sort: original
 锄头	jjtdi
 积极推动	jjtdu
 初探	jjtf
-经济体制	jjtfa
+出摊	jjtfa
+经济体制	jjtfaa
 拣精剔肥	jjtfi
 初谈	jjtfo
 出庭	jjtg
@@ -49479,7 +49495,8 @@ sort: original
 几笔	jkbk
 积弊	jkbku
 击毙	jkbkv
-机播	jkbl
+激波	jkbl
+机播	jkblv
 几遍	jkbm
 即便	jkbma
 畸变	jkbmi
@@ -50074,6 +50091,7 @@ sort: original
 几千	jkqm
 急诊	jkqn
 集镇	jkqni
+机震	jkqnv
 几张	jkqp
 级长	jkqpa
 记账	jkqpo
@@ -51963,6 +51981,7 @@ sort: original
 长跑	jppz
 长袍	jppzu
 柬埔寨	jpq
+犟脾气	jpqa
 厂桥	jpqc
 唱着	jpqe
 长青	jpqg
@@ -68497,6 +68516,7 @@ sort: original
 马琳	mslb
 马料	mslc
 马列	msld
+吗喽	msldo
 骂了	msle
 马勒	mslea
 麻了	msleo
@@ -74514,6 +74534,7 @@ garth03@yeah.net	oyx
 破胆	pldf
 普罗大众	pldfo
 坡度	pldj
+破读	pldjv
 坡地	pldk
 颇多	pldl
 赔礼道歉	pldq
@@ -78990,6 +79011,7 @@ garth03@yeah.net	oyx
 主卧	qjwl
 助我	qjwli
 穷极无聊	qjwlo
+猪窝	qjwlu
 千军万马	qjwm
 主创	qjwmo
 著文	qjwn
@@ -81327,7 +81349,8 @@ garth03@yeah.net	oyx
 球胆	qqdf
 沾亲带故	qqdg
 球袋	qqdh
-浅斟低唱	qqdj
+泅渡	qqdj
+浅斟低唱	qqdja
 秋地	qqdk
 求多	qqdl
 争权夺利	qqdlu
@@ -90142,6 +90165,7 @@ garth03@yeah.net	oyx
 同时存在	tecz
 同时代	ted
 天上掉馅饼	tedb
+特对	tedbu
 特调	tedc
 特逗	tedd
 特的	tede
@@ -99864,6 +99888,7 @@ garth03@yeah.net	oyx
 娓娓	wwwwa
 巍巍	wwwwi
 蔚为	wwwwio
+喂喂	wwwwo
 微创	wwwx
 微冲	wwwy
 伪钞	wwwz
@@ -99945,8 +99970,8 @@ garth03@yeah.net	oyx
 为乐	wwyho
 唯一	wwyk
 卫衣	wwyka
-偎依	wwyki
-位移	wwykiu
+位移	wwyki
+偎依	wwykii
 惟一	wwyko
 为宜	wwykoo
 委以	wwyku
@@ -101724,6 +101749,7 @@ garth03@yeah.net	oyx
 小幅	xcfji
 校服	xcfjv
 小指	xcfk
+小只	xcfki
 小桌	xcfl
 小酌	xcfli
 小庄	xcfm
@@ -109019,6 +109045,7 @@ garth03@yeah.net	oyx
 向左	xxzlu
 想坐	xxzlv
 相左	xxzlvv
+小写字母	xxzm
 相赠	xxzr
 惺惺作态	xxzt
 信息资源	xxzy
@@ -111928,6 +111955,7 @@ garth03@yeah.net	oyx
 硬脂酸	yfs
 颜色	yfse
 眼色	yfsei
+焰色	yfseo
 严防死守	yfsev
 研三	yfsf
 银装素裹	yfsg
