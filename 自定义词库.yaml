@@ -151,7 +151,6 @@
   不给力啊
   大不了的
   含糊其辞	hhqci
-  变成这样
   逐渐式微	qjew
   法不责众
   不计其数	bjqev
@@ -182,10 +181,9 @@
   什么问题	emwt
   而是因为	xeywv
   因为什么	ywem
-  因为这样	ywfyi
+  因为这样	ywfyi	ywqy
   因为没有	ywmy
   因为那样	ywny
-  因为这样	ywqy
   因为如此	ywrc
   不仅因为	bjywvi
   但是因为	deywi
@@ -203,14 +201,12 @@
   没有东西	mydxa
   没有时间	myej
   没有什么	myem
-  没有这么	myfm
-  没有这样	myfy
+  没有这么	myfm	myqm
+  没有这样	myfy	myqya
   没有感觉	mygj
   没有关系	mygx
   没有工作	mygza
   没有那么	mynm
-  没有这么	myqm
-  没有这样	myqya
   没有问题	mywt
   其实没有	qemy
   如果没有	rgmy
@@ -222,29 +218,25 @@
   一个就是	ygjevi
   一个一个	ygygv
   因为一个	ywygi
-  作为一个	zwyg
   作为一个	zwygi
-  这样一个	qyygo
-  这样一个	fyygo
+  这样一个	qyygo	fyygo
   那样一个	nyyg
   存在一个	czygv
-  这么一个	fmyg
+  这么一个	fmyg	qmygo
   还是一个	heygv
   还有一个	hyygv
   没有一个	myyg
   那么一个	nmyg
-  这么一个	qmygo
   那不是	nbeav
   如果不是	rgbe
   虽然不是	srbe
   已经不是	yjbe
   不是什么	beem
-  不是这么	befm
-  不是这样	befyv
+  不是这么	befm	beqm
+  不是这样	beqy	befyv
   不是没有	bemy
   不是那么	benm
   不是那样	beny
-  不是这么	beqm
   不是为了	bewl
   不是问题	bewt
   不是一个	beyg
@@ -263,12 +255,11 @@
   我们才能	wmcn
   我们知道	wmfd
   我们中国	wmfgu
-  我们这样	wmfy
+  我们这样	wmfy	wmqyu
   我们就是	wmje
   我们今天	wmjt
   我们可以	wmky
   我们没有	wmmy
-  我们这样	wmqyu
   我们如果	wmrg
   我们认为	wmrw
   我们为什么	wmwmu
@@ -298,9 +289,9 @@
   好像就是	hxjea
   还有就是	hyjev
   就是什么	jeem
-  就是这样	jefyo
+  就是这样	jefyo	jeqy
   就是没有	jemy
-  就是这么	jeqmoo
+  就是这么	jefm	jeqmoo
   就是如此	jerc
   就是为了	jewl
   就是现在	jexz
@@ -308,26 +299,18 @@
   就是因为	jeyw
   结果就是	jgjea
   怎么可以	zmky
-  怎么这样	zmqy
-  怎么这样	zmfy
-  怎么这么	zmfm
-  怎么这么	zmqm
-  不能这样	bnfyv
-  不能这样	bnqy
-  这样才能	fycn
-  这样才能	qycn
-  这样可以	qykyo
-  这样那样	qyny
-  这样认为	qyrwo
-  如果这样	rgfy
-  如果这样	rgqy
-  现在这样	xzfyv
-  现在这样	xzqy
-  这样那样	fynyo
+  怎么这样	zmfy	zmqy
+  怎么这么	zmfm	zmqm
+  不能这样	bnfyv	bnqy
+  这样才能	fycn	qycn
+  这样可以	fykyo	qykyo
+  这样认为	fyrw	qyrwo
+  如果这样	rgfy	rgqy
+  现在这样	xzfyv	xzqy
+  这样那样	fynyo	qyny
+  变成这样	bjfyov	bjqyo
   还有那么	hynm
-  就是这么	jefm
-  可以这么	kyfmv
-  可以这么	kyqmv
+  可以这么	kyfmv	kyqmv
   但是如果	derg
   可是如果	kerg
   如果不能	rgbn
@@ -378,6 +361,7 @@
   大调	打掉
   背锅	背过
   位移	偎依
+  年头	黏贴
   待办	代办	代班
   不谢	不懈	不屑
   别摘	标点符号
@@ -1424,9 +1408,32 @@ c++	cjj
 流腮	lqsh
 曲名	qlmgi
 丐版	ghbfv
+郊狼	jclp
+懂点	dydm
+拟态	nkthi
+打稿	dsgzi
+白化	bhhqui
+汞齐	gyqkv
+板板	bfbfvv
+词尾	ckwwo
+蜂鸣	frmgi
+碎布	sbbjv
+剔掉	tkdco
+粉饺	fnjco
+巨多	jldlv
+缓考	htkz
+废弛	fwwko
+低热	dkrei
+蚕砂	cfesv
+弧矢	hjekau
+泰诺	thnl
 X射线	xksx
 γ射线	gmex
 MIDI	mkdki
+白化病	bhbu
+卖完了	mwl
+吃豆人	wdro
+拟声词	nec
 丁达尔	ddx
 河漫滩	hmt
 拉尼娜	lnni
@@ -1851,6 +1858,11 @@ MIDI	mkdki
 零零后	llhv
 艾里斑	xlbii
 挂空挡	gkdi
+扑热息痛	prxt
+礼坏乐崩	lhybo
+礼崩乐坏	lbyho
+力大如牛	ldrnav
+找不着北	fbfb
 交叉感染	jwgro
 半懂不懂	bdbd
 阿巴阿巴	xbxba
