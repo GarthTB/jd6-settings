@@ -1152,6 +1152,7 @@ sort: original
 办卡	bfks
 板卡	bfksv
 半宽	bfkt
+板宽	bfktv
 半筐	bfkx
 半空	bfky
 百分率	bfl
@@ -4285,6 +4286,7 @@ sort: original
 边料	bmlc
 编列	bmld
 变了	bmle
+扁了	bmleo
 遍览	bmlf
 八面来风	bmlfu
 边路	bmlj
@@ -7768,6 +7770,7 @@ sort: original
 采集	chjk
 菜鸡	chjki
 猜忌	chjku
+彩机	chjkuv
 才具	chjl
 裁剪	chjm
 裁减	chjmu
@@ -15548,6 +15551,7 @@ sort: original
 端部	dtbjo
 断臂	dtbk
 短波	dtbl
+短边	dtbm
 跌停板	dtbo
 短棒	dtbp
 敌托邦	dtbu
@@ -16239,6 +16243,7 @@ sort: original
 东道	dydzv
 倒也是	dye
 动手	dyed
+冻手	dyedo
 多一事不如少一事	dyee
 东山	dyef
 大意失荆州	dyefv
@@ -16496,6 +16501,7 @@ sort: original
 第一人称	dyrju
 冬日	dyrk
 动人	dyrn
+冻人	dyrno
 东软	dyrt
 动容	dyry
 大有人在	dyrz
@@ -20487,6 +20493,7 @@ sort: original
 是梦	ekmr
 释梦	ekmru
 是吗	ekms
+适马	ekmsu
 事妈	ekmsv
 师妹	ekmw
 时髦	ekmz
@@ -21040,8 +21047,8 @@ sort: original
 说亲	elqb
 说着	elqe
 说这	elqeo
-说情	elqg
-说清	elqgo
+说清	elqg
+说情	elqgo
 身临其境	elqj
 说起	elqk
 生理期	elqu
@@ -26599,6 +26606,7 @@ sort: original
 捉襟见肘	fjjfi
 赴京	fjjg
 中介机构	fjjgi
+副镜	fjjgv
 肤觉	fjjh
 非蠢即坏	fjjhi
 这几句话	fjjho
@@ -35882,7 +35890,8 @@ sort: original
 光前	gmqm
 光针	gmqn
 冠名权	gmqo
-革命战争	gmqq
+光球	gmqq
+革命战争	gmqqv
 广征	gmqr
 光圈	gmqt
 革命者	gmqv
@@ -35963,6 +35972,7 @@ sort: original
 广义	gmyk
 广域	gmyl
 光洋	gmyp
+光压	gmys
 光源	gmyt
 广元	gmyto
 感冒药	gmyv
@@ -37101,6 +37111,7 @@ sort: original
 灌篮	gtlf
 掼篮	gtlfi
 关岭	gtlg
+光通量	gtli
 官禄	gtlj
 管路	gtlju
 管理	gtlk
@@ -37691,6 +37702,7 @@ sort: original
 光前	gxqm
 光针	gxqn
 高新区	gxqo
+光球	gxqq
 广征	gxqr
 光圈	gxqt
 光强	gxqx
@@ -37786,6 +37798,7 @@ sort: original
 高效益	gxyo
 光洋	gxyp
 改弦易辙	gxyq
+光压	gxys
 光源	gxyt
 广元	gxyto
 管弦乐	gxyu
@@ -38833,6 +38846,7 @@ sort: original
 还不到	hbdv
 祸不单行	hbdx
 挥动	hbdy
+会动	hbdyi
 毫不动摇	hbdyo
 回到	hbdz
 回道	hbdzi
@@ -41238,7 +41252,6 @@ sort: original
 护工	hjgyi
 胡搞	hjgz
 好家伙	hjh
-好家伙	hjha
 互惠	hjhb
 呼吼	hjhd
 呼喝	hjhe
@@ -51801,8 +51814,9 @@ sort: original
 长白	jpbh
 场部	jpbj
 长波	jpbl
-场边	jpbm
-长鞭	jpbmu
+长鞭	jpbm
+长边	jpbmu
+场边	jpbmv
 唱本	jpbn
 常把	jpbs
 唱吧	jpbso
@@ -52804,6 +52818,7 @@ sort: original
 承当	jrdp
 成大	jrds
 趁热打铁	jrdt
+近日点	jrdu
 成吨	jrdw
 城东	jrdy
 撑到	jrdz
@@ -55445,6 +55460,7 @@ sort: original
 魁首	kbed
 蝰蛇	kbee
 葵扇	kbef
+奎山	kbefv
 看不上	kbei
 窥视	kbek
 看报纸	kbf
@@ -63100,6 +63116,7 @@ sort: original
 驴肉火烧	lrhe
 冷汗	lrhf
 冷害	lrhh
+冷湖	lrhj
 冷货	lrhl
 冷哼	lrhr
 李荣浩	lrhv
@@ -63858,6 +63875,7 @@ sort: original
 伦常	lwjp
 雷场	lwjpv
 垒成	lwjr
+累乘	lwjri
 累加	lwjs
 沦浃	lwjsa
 雷军	lwjw
@@ -64233,6 +64251,7 @@ sort: original
 旅行家	lxjo
 旅行车	lxjou
 两场	lxjp
+亮场	lxjpo
 良久	lxjq
 两成	lxjr
 量程	lxjro
@@ -66826,6 +66845,7 @@ sort: original
 木瓦	mjws
 木船	mjwt
 木卫	mjww
+幕帷	mjwwi
 木床	mjwx
 民间文学	mjwxa
 没出息	mjx
@@ -74356,6 +74376,7 @@ garth03@yeah.net	oyx
 破镜重圆	pjwy
 平常心	pjx
 朴硝	pjxc
+普消	pjxco
 谱写	pjxd
 普安	pjxf
 铺行	pjxg
@@ -74848,6 +74869,7 @@ garth03@yeah.net	oyx
 偏饭	pmff
 篇幅	pmfj
 偏执	pmfk
+偏置	pmfki
 胼胝	pmfku
 片状	pmfm
 片装	pmfmu
@@ -78863,6 +78885,7 @@ garth03@yeah.net	oyx
 助产	qjjf
 主产	qjjfo
 驻京	qjjg
+主镜	qjjgo
 主角	qjjh
 这几句话	qjjho
 镇静剂	qjji
@@ -86550,6 +86573,7 @@ garth03@yeah.net	oyx
 四时八节	sebj
 色笔	sebk
 色变	sebm
+色边	sebmu
 涩北	sebw
 瑟堡	sebz
 损失惨重	secf
@@ -94064,6 +94088,7 @@ garth03@yeah.net	oyx
 叹一口气	tykq
 同款	tykt
 铜矿	tykx
+同框	tykxi
 瞳孔	tyky
 通孔	tykya
 同样可以	tykyi
@@ -103440,6 +103465,7 @@ garth03@yeah.net	oyx
 新专辑	xfjo
 学分绩	xfjou
 暗场	xfjp
+暗娼	xfjpo
 俺就	xfjq
 安城	xfjr
 安家	xfjs
@@ -106603,6 +106629,7 @@ garth03@yeah.net	oyx
 先撒	xmss
 贤孙	xmsw
 先送	xmsy
+线扫	xmsz
 新媒体	xmt
 先退	xmtb
 线条	xmtc
@@ -112972,6 +112999,7 @@ garth03@yeah.net	oyx
 约了	yhle
 乐了	yhleu
 阅览	yhlf
+月龄	yhlg
 约略	yhlh
 月来	yhlhu
 越来	yhlhv
@@ -114983,7 +115011,8 @@ garth03@yeah.net	oyx
 语态	ylth
 玉兔	yltj
 有利条件	yltjv
-预提	yltk
+语体	yltk
+预提	yltka
 雨天	yltm
 鱼塘	yltp
 鱼汤	yltpu
@@ -115846,6 +115875,7 @@ garth03@yeah.net	oyx
 应如此	yrc
 亚热带	yrd
 一人得道	yrdd
+远日点	yrdv
 用人单位	yrdw
 有人说	yre
 哑然失笑	yrex
